@@ -1,7 +1,18 @@
 <!DOCTYPE html>
 <html>
 <body>	
-	<form action>
+	<script type="text/javascript">
+		function OnSubmitForm() {
+			if(document.pressed == 'Insert') {
+				document.myform.action ="insert.html";
+			} else if(document.pressed == 'Update') {
+				document.myform.action ="update.html";
+			}
+			return true;
+		}
+	</script>
+
+	<form name="myform" onsubmit="return onsubmitform();">
 		<label for="fname">First name:</label><br>
 		<input type="text" id="fname" name="fname" value="Ian"><br>
 		<label for="lname">Last name:</label><br>
@@ -11,18 +22,5 @@
 		<br>
 		<input type="submit" formaction="/Grades/2020/Fall/report7_summary.txt">
 	</form>
-
-	<script type="text/javascript">
-		function performClick(elemId) {
-			var elem = document.getElementById(elemId);
-			if(elem && document.createEvent) {
-				var evt = document.createEvent("MouseEvents");
-				evt.initEvent("click", true, false);
-				elem.dispatchEvent(evt);
-			}
-		}
-	</script>
-	<a href="#" onclick="performClick('theFile');">Open file dialog</a>
-	<input type="file" id="theFile" />
 </body>
 </html>
