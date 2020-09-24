@@ -13,14 +13,18 @@
 	</script>
 
 	<form name="myform" onsubmit="return onsubmitform();">
-		<label for="fname">First name:</label><br>
+		<!--<label for="fname">First name:</label><br>
 		<input type="text" id="fname" name="fname" value="Ian"><br>
 		<label for="lname">Last name:</label><br>
 		<input type="text" id="lname" name="lname" value="Leifer"><br>
 		<label for="fname">CunyFirstId:</label><br>
                 <input type="text" id="fname" name="fname" value="1488"><br>
 		<br>
-		<input type="submit" formaction="/Grades/2020/Fall/report7_summary.txt">
+		<input type="submit" formaction="/Grades/2020/Fall/report7_summary.txt">--!>
+		
+		
+		<input type="submit" name="operation" onclick="document.pressed=this.value" value="insert" />
+		<input type="submit" name="operation" onclick="document.pressed=this.value" value="update" />
 	</form>
 </body>
 </html>
