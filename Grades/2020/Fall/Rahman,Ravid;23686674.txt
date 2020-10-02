@@ -1,0 +1,82 @@
+Lab 1:
+Score:
+
+Introduction = 1/1
+Procedure = 1/2
+Data = 1.5/5
+Questions = 0/0
+Conclusion = 0/2
+
+Structure Loss = 0
+On Time = 1
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 3.5/10
+
+Comments:
+
+Procedure:
+Procedure has to be structured using lab guidelines. Each big experiment has to be clearly identified and then steps to perform that experiment should be shown as a list i.e.
+Experiment 1:
+1) …
+2) …
+…
+Data:
+Time in between heartbeats measurement is not presented
+Graphs of circumference vs diameter for Google maps is not presented or is not formatted properly
+Method used to identify pi value is wrong. To find pi plot the graph of circumference vs diameter. Add the trend line that crosses zero. Slope of the trend line is the pi value
+Average rate of walking is not calculated or is clearly wrong
+Conclusion:
+Main result is not presented or reasons for it being right or wrong are not discussed
+Main result needs to be presented similar to:
+We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2, our result has an error of 3.1%.
+Ways to improve experiment setup were not suggested.
+Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+
+
+
+
+Lab 2:
+Score:
+
+Introduction = 1/1
+Procedure = 1/2
+Data = 2/5
+Questions = 0/0
+Conclusion = 0/2
+
+Structure Loss = 0
+On Time = 1
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 4/10
+
+Comments:
+
+Procedure:
+Procedure has to be structured using lab guidelines. Each big experiment has to be clearly identified and then steps to perform that experiment should be shown as a list i.e.
+Experiment 1:
+1) …
+2) …
+…
+Data:
+Resultant direction and speed are calculated correctly
+Resultant can be found using aircraft speed (V) and wind speed (w)
+R = (V^2 + w^2)^(1/2) = (210^2+65^2)^(1/2) = 219.8 km/h
+Tetta = arctan(V/w) = 1.27 rad = 72.8 degrees
+Direction to point the plane to stay on course is not calculated correctly
+In order to stay on the northbound course, pilot needs to have a velocity directed NW in such manner, that X component of her velocity is equal to the X component of the wind to cancel each other. Therefore, the angle can be found using equation
+Vx = V cos(tetta) = -w
+Or
+tetta = arccos(-w/V) = 1.88 rad = 108 degrees
+Or, in case of the confusion, 18 degrees from North
+Corrective measures when landing not stated
+During landing the pilot would have to turn her plane further west, because while the speed is going to be decreasing X component of it is also going to decrease, so in order to stay on northbound course, she will need to turn further west.
+Conclusion:
+Main result is not presented or reasons for it being right or wrong are not discussed
+Main result needs to be presented similar to:
+We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2, our result has an error of 3.1%.
+Ways to improve experiment setup were not suggested.
+Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+
+
+
+

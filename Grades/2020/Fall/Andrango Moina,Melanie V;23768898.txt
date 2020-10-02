@@ -1,0 +1,44 @@
+Lab 1:
+Score:
+
+Introduction = 1/1
+Procedure = 2/2
+Data = 5/5
+Questions = 0/0
+Conclusion = 2/2
+
+Structure Loss = 0
+On Time = 1
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 10/10
+
+Comments:
+
+Introduction:
+NA
+
+
+
+
+Lab 2:
+Score:
+
+Introduction = 1/1
+Procedure = 2/2
+Data = 5/5
+Questions = 0/0
+Conclusion = 2/2
+
+Structure Loss = 0
+On Time = 1
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 10/10
+
+Comments:
+
+Introduction:
+NA
+
+
+
+

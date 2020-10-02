@@ -10,6 +10,16 @@
 			}
 			return true;
 		}
+
+		function add(a,b) {
+			var sum = parseInt(a) + parseInt(b);
+			alert(sum);
+		}
+
+		function getSummary() {
+			document.myform.action = document.getElementById('ID').value;
+			return true;
+		}
 	</script>
 
 	<form name="myform" onsubmit="return OnSubmitForm();">
@@ -22,9 +32,18 @@
 		<br>
 		<input type="submit" formaction="/Grades/2020/Fall/report7_summary.txt">--!>
 		
+                <input type="text" id="ID" value="insert.html"><br>
+		<input type="submit" onclick="return getSummary();">
 		
 		<input type="submit" name="operation" onclick="document.pressed=this.value" value="Insert" />
 		<input type="submit" name="operation" onclick="document.pressed=this.value" value="Update" />
 	</form>
+
+	<h1>Adding 'a' and 'b'</h1>
+	
+	a: <input type="number" name="a" id="a"><br>
+	b: <input type="number" name="b" id="b"><br>
+	<button onclick="add(document.getElementById('a').value,document.getElementById('b').value)">Add</button>
+
 </body>
 </html>

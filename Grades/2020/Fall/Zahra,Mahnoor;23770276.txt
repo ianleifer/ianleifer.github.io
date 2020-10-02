@@ -1,0 +1,49 @@
+Lab 1:
+Score:
+
+Introduction = 1/1
+Procedure = 2/2
+Data = 2.5/5
+Questions = 0/0
+Conclusion = 0/2
+
+Structure Loss = 0
+On Time = 1
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 5.5/10
+
+Comments:
+
+Data:
+Method used to identify pi value is wrong. To find pi plot the graph of circumference vs diameter. Add the trend line that crosses zero. Slope of the trend line is the pi value
+Average rate of walking is not calculated or is clearly wrong
+Conclusion:
+Main result is not presented or reasons for it being right or wrong are not discussed
+Main result needs to be presented similar to:
+We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2, our result has an error of 3.1%.
+Ways to improve experiment setup were not suggested.
+Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+
+
+
+
+Lab 2:
+Score:
+
+Introduction = 1/1
+Procedure = 2/2
+Data = 5/5
+Questions = 0/0
+Conclusion = 2/2
+
+Structure Loss = NaN
+On Time = NaN
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = NaN/10
+
+Comments:
+
+
+
+
+
