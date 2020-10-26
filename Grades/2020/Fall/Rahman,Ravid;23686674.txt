@@ -3,14 +3,14 @@ Score:
 
 Introduction = 1/1
 Procedure = 1/2
-Data = 1.5/5
+Data = 2/5
 Questions = 0/0
 Conclusion = 0/2
 
 Structure Loss = 0
 On Time = 1
 
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 3.5/10
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 4/10
 
 Comments:
 
@@ -21,7 +21,6 @@ Experiment 1:
 2) …
 …
 Data:
-Time in between heartbeats measurement is not presented
 Graphs of circumference vs diameter for Google maps is not presented or is not formatted properly
 Method used to identify pi value is wrong. To find pi plot the graph of circumference vs diameter. Add the trend line that crosses zero. Slope of the trend line is the pi value
 Average rate of walking is not calculated or is clearly wrong
@@ -107,17 +106,25 @@ Score:
 
 Introduction = 1/1
 Procedure = 2/2
-Data = 5/5
+Data = 0/5
 Questions = 0/0
 Conclusion = 2/2
 
-Structure Loss = NaN
-On Time = NaN
+Structure Loss = 0
+On Time = 1
 
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = NaN/10
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 5/10
 
 Comments:
 
+Data:
+Measurements from the part 1 are not present
+Summary table with the data for the part 2a is not present or doesn’t have all the measurements
+Plot Fc vs m for the part 2a is not present
+Plot m vs V for the part 2a is not present
+Summary table with the data for the part 2b is not present or doesn’t have all the measurements
+Plot Fc vs r for the part 2b is not present
+Plot r vs w for the part 2b is present
 
 
 
