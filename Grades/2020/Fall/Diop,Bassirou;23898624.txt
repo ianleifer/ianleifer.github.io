@@ -51,3 +51,48 @@ Suggest specific ways how to improve experiment (less vague than doing more repe
 
 
 
+Lab 3:
+Score:
+
+Introduction = 1/1
+Procedure = 2/2
+Data = 5/5
+Questions = 0/0
+Conclusion = 2/2
+
+Structure Loss = 0
+On Time = 1
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 10/10
+
+Comments:
+
+Introduction:
+NA
+
+
+
+
+Lab 4:
+Score:
+
+Introduction = 1/1
+Procedure = 2/2
+Data = 4.5/5
+Questions = 0/0
+Conclusion = 2/2
+
+Structure Loss = 0
+On Time = 1
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 9.5/10
+
+Comments:
+
+Data:
+Plot Fc vs m for the part 2a is not present
+Plot Fc vs r for the part 2b is not present
+
+
+
+
