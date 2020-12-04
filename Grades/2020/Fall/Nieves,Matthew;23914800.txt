@@ -1,117 +1,155 @@
-Lab 1:
-Score:
+Lab grade summary
 
-Introduction = 1/1
-Procedure = 2/2
-Data = 3.5/5
-Questions = 0/0
-Conclusion = 0/2
+|              | Lab 1 | Lab 2 | Lab 3 | Lab 4 | Lab 5 | Lab 6 | Total |
+|:-------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|Introduction  |  1.0  |  1.0  |   1   |   1   |  1.0  |   1   |  1.0  |
+|Procedure     |  2.0  |  2.0  |   2   |   2   |  0.0  |   2   |  1.7  |
+|Data          |  3.5  |  0.5  |   5   |   5   |  3.5  |   5   |  3.8  |
+|Questions     |  0.0  |  0.0  |   0   |   0   |  0.0  |   0   |  0.0  |
+|Conclusion    |  0.0  |  0.0  |   2   |   2   |  0.0  |   2   |  1.0  |
+|StructureLoss |  0.0  |  0.0  |   0   |   0   |  0.0  |  NA   |  NA   |
+|OnTime        |  0.5  |  0.5  |   1   |   0   |  0.5  |  NA   |  NA   |
+|FinalScore    |  3.2  |  1.8  |  10   |   0   |  2.2  |  NA   |  NA   |
 
-Structure Loss = 0
-On Time = 0.5
+Final score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time
 
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 3.25/10
+Attendance
 
-Comments:
-
-Data:
-Method used to identify pi value is wrong. To find pi plot the graph of circumference vs diameter. Add the trend line that crosses zero. Slope of the trend line is the pi value
-Conclusion:
-Main result is not presented or reasons for it being right or wrong are not discussed
-Main result needs to be presented similar to:
-We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2, our result has an error of 3.1%.
-Ways to improve experiment setup were not suggested.
-Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+|   | Lab 1| Lab 2| Tutorial 1| Tutorial 2| Lab 3| Tutorial ?| Lab 4| Tutorial 3| Lab 5| Tutorial 4| Lab 6| Tutorial 5| Lab 7| Total|
+|:--|-----:|-----:|----------:|----------:|-----:|----------:|-----:|----------:|-----:|----------:|-----:|----------:|-----:|-----:|
+|21 |     1|     1|          1|          1|     1|          1|     1|          1|     1|          1|     1|          1|     1|     1|
 
 
 
 
-Lab 2:
-Score:
-
-Introduction = 1/1
-Procedure = 2/2
-Data = 0.5/5
-Questions = 0/0
-Conclusion = 0/2
-
-Structure Loss = 0
-On Time = 0.5
-
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 1.75/10
-
-Comments:
-
-Data:
-Resultant force is not calculated correctly
-You needed to take
-Rx = V1x+V2x and Ry = V1y + V2y
-And then calculate
-R = (Rx^2+Ry^2)^(1/2)
-tetta = arctan(Ry/Rx)
-Equilibrant force is not calculated correctly
-You needed to take resultant force R, tettaR and put
-E = R
-tettaE = tettaR – 180
-Resultant direction and speed are calculated correctly
-Resultant can be found using aircraft speed (V) and wind speed (w)
-R = (V^2 + w^2)^(1/2) = (210^2+65^2)^(1/2) = 219.8 km/h
-Tetta = arctan(V/w) = 1.27 rad = 72.8 degrees
-Direction to point the plane to stay on course is not calculated correctly
-In order to stay on the northbound course, pilot needs to have a velocity directed NW in such manner, that X component of her velocity is equal to the X component of the wind to cancel each other. Therefore, the angle can be found using equation
-Vx = V cos(tetta) = -w
-Or
-tetta = arccos(-w/V) = 1.88 rad = 108 degrees
-Or, in case of the confusion, 18 degrees from North
-Conclusion:
-Main result is not presented or reasons for it being right or wrong are not discussed
-Main result needs to be presented similar to:
-We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2, our result has an error of 3.1%.
-Ways to improve experiment setup were not suggested.
-Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+Comments lab 1
 
 
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Section   |                        Requirement                        |                           Comment                            | Points lost |
++============+===========================================================+==============================================================+=============+
+|    Data    |   Trend line method is used in all three experiments to   |  Method used to identify pi value is wrong. To find pi plot  |     1.5     |
+|            |                        identify pi                        |  the graph of circumference vs diameter. Add the trend line  |             |
+|            |                                                           |  that crosses zero. Slope of the trend line is the pi value  |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Conclusion | Main result is identified. Clear reasons are given for it |  Main result is not presented or reasons for it being right  |      1      |
+|            |                   being right or wrong.                   |                  or wrong are not discussed                  |             |
+|            |                                                           |        Main result needs to be presented similar to:         |             |
+|            |                                                           | We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2,  |             |
+|            |                                                           |               our result has an error of 3.1%.               |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Conclusion |     Ways to improve experiment setup were suggested.      |     Ways to improve experiment setup were not suggested.     |      1      |
+|            |                                                           | Suggest specific ways how to improve experiment (less vague  |             |
+|            |                                                           | than doing more repetitions or using more precise equipment) |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
 
 
-Lab 3:
-Score:
-
-Introduction = 1/1
-Procedure = 2/2
-Data = 5/5
-Questions = 0/0
-Conclusion = 2/2
-
-Structure Loss = 0
-On Time = 1
-
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 10/10
-
-Comments:
-
-Introduction:
-NA
+Comments lab 2
 
 
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Section   |                        Requirement                        |                           Comment                            | Points lost |
++============+===========================================================+==============================================================+=============+
+|    Data    |          Resultant force is calculated correctly          |         Resultant force is not calculated correctly          |     1.5     |
+|            |                                                           |                      You needed to take                      |             |
+|            |                                                           |               Rx = V1x+V2x and Ry = V1y + V2y                |             |
+|            |                                                           |                      And then calculate                      |             |
+|            |                                                           |                    R = (Rx^2+Ry^2)^(1/2)                     |             |
+|            |                                                           |                    tetta = arctan(Ry/Rx)                     |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |         Equilibrant force is calculated correctly         |        Equilibrant force is not calculated correctly         |     0.5     |
+|            |                                                           |     You needed to take resultant force R, tettaR and put     |             |
+|            |                                                           |                            E = R                             |             |
+|            |                                                           |                    tettaE = tettaR – 180                     |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |  Resultant direction and speed are calculated correctly   |    Resultant direction and speed are calculated correctly    |     0.5     |
+|            |                                                           |   Resultant can be found using aircraft speed (V) and wind   |             |
+|            |                                                           |                          speed (w)                           |             |
+|            |                                                           |   R = (V^2 + w^2)^(1/2) = (210^2+65^2)^(1/2) = 219.8 km/h    |             |
+|            |                                                           |        Tetta = arctan(V/w) = 1.27 rad = 72.8 degrees         |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |   Direction to point the plane to stay on course is not   |    Direction to point the plane to stay on course is not     |      2      |
+|            |                   calculated correctly                    |                     calculated correctly                     |             |
+|            |                                                           |  In order to stay on the northbound course, pilot needs to   |             |
+|            |                                                           | have a velocity directed NW in such manner, that X component |             |
+|            |                                                           |  of her velocity is equal to the X component of the wind to  |             |
+|            |                                                           |  cancel each other. Therefore, the angle can be found using  |             |
+|            |                                                           |                           equation                           |             |
+|            |                                                           |                    Vx = V cos(tetta) = -w                    |             |
+|            |                                                           |                              Or                              |             |
+|            |                                                           |        tetta = arccos(-w/V) = 1.88 rad = 108 degrees         |             |
+|            |                                                           |     Or, in case of the confusion, 18 degrees from North      |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Conclusion | Main result is identified. Clear reasons are given for it |  Main result is not presented or reasons for it being right  |      1      |
+|            |                   being right or wrong.                   |                  or wrong are not discussed                  |             |
+|            |                                                           |        Main result needs to be presented similar to:         |             |
+|            |                                                           | We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2,  |             |
+|            |                                                           |               our result has an error of 3.1%.               |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Conclusion |     Ways to improve experiment setup were suggested.      |     Ways to improve experiment setup were not suggested.     |      1      |
+|            |                                                           | Suggest specific ways how to improve experiment (less vague  |             |
+|            |                                                           | than doing more repetitions or using more precise equipment) |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
 
 
-Lab 4:
-Score:
-
-Introduction = 1/1
-Procedure = 2/2
-Data = 5/5
-Questions = 0/0
-Conclusion = 2/2
-
-Structure Loss = NaN
-On Time = NaN
-
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = NaN/10
-
-Comments:
+Comments lab 3
 
 
++-------------+-----------------+-------------+-----------------+
+| **Section** | **Requirement** | **Comment** | **Points lost** |
++-------------+-----------------+-------------+-----------------+
 
 
+Comments lab 4
+
+
++-------------+-----------------+-------------+-----------------+
+| **Section** | **Requirement** | **Comment** | **Points lost** |
++-------------+-----------------+-------------+-----------------+
+
+
+Comments lab 5
+
+
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Section   |                        Requirement                        |                           Comment                            | Points lost |
++============+===========================================================+==============================================================+=============+
+| Procedure  |                  Procedure has structure                  |  Procedure has to be structured using lab guidelines. Each   |      1      |
+|            |                                                           |  big experiment has to be clearly identified and then steps  |             |
+|            |                                                           |  to perform that experiment should be shown as a list i.e.   |             |
+|            |                                                           |                        Experiment 1:                         |             |
+|            |                                                           |                             1) …                             |             |
+|            |                                                           |                             2) …                             |             |
+|            |                                                           |                              …                               |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Procedure  |             Procedure covers all experiments              |  All experiments that were conducted during the lab need to  |      1      |
+|            |                                                           |                be described in the procedure                 |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    | Fnet * delta t vs Vw data is present and Fnet and mw are  | Fnet * delta t vs Vw data is not present or Fnet and mw are  |     0.5     |
+|            |                       kept constant                       |                      not kept constant                       |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |  Fnet vs Vw data is present and delta t and mw are kept   |   Fnet vs Vw data is not present or delta t and mw are not   |     0.5     |
+|            |                         constant                          |                        kept constant                         |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |  mw vs Vw data is present and delta t and Fnet are kept   |   mw vs Vw data is not present or delta t and Fnet are not   |     0.5     |
+|            |                         constant                          |                        kept constant                         |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Conclusion | Main result is identified. Clear reasons are given for it |  Main result is not presented or reasons for it being right  |      1      |
+|            |                   being right or wrong.                   |                  or wrong are not discussed                  |             |
+|            |                                                           |        Main result needs to be presented similar to:         |             |
+|            |                                                           | We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2,  |             |
+|            |                                                           |               our result has an error of 3.1%.               |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Conclusion |     Ways to improve experiment setup were suggested.      |     Ways to improve experiment setup were not suggested.     |      1      |
+|            |                                                           | Suggest specific ways how to improve experiment (less vague  |             |
+|            |                                                           | than doing more repetitions or using more precise equipment) |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+
+
+Comments lab 6
+
+
++-------------+-----------------+-------------+-----------------+
+| **Section** | **Requirement** | **Comment** | **Points lost** |
++-------------+-----------------+-------------+-----------------+
 
