@@ -1,107 +1,130 @@
-Lab 1:
-Score:
+Lab grade summary
 
-Introduction = 1/1
-Procedure = 1/2
-Data = 1/5
-Questions = 0/0
-Conclusion = 1/2
+|              | Lab 1 | Lab 2 | Lab 3 | Lab 4 | Lab 5 | Lab 6 | Lab 7 | Total |
+|:-------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|Introduction  |   1   |  1.0  |   1   |   1   |   1   |   1   |  1.0  |  1.0  |
+|Procedure     |   1   |  1.0  |   2   |   2   |   2   |   2   |  1.0  |  1.6  |
+|Data          |   1   |  4.5  |   5   |   5   |   5   |   5   |  3.0  |  4.1  |
+|Questions     |   0   |  0.0  |   0   |   0   |   0   |   0   |  2.0  |  0.3  |
+|Conclusion    |   1   |  1.0  |   2   |   2   |   2   |   2   |  1.0  |  1.6  |
+|StructureLoss |   0   | -2.0  |   0   |   0   |   0   |   0   |  0.0  | -0.3  |
+|OnTime        |   1   |  0.5  |   1   |   0   |   0   |   0   |  0.5  |  0.4  |
+|FinalScore    |   4   |  2.8  |  10   |   0   |   0   |   0   |  4.0  |  3.0  |
 
-Structure Loss = 0
-On Time = 1
+Final score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time
 
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 4/10
+Attendance
 
-Comments:
-
-Procedure:
-Procedure has to be structured using lab guidelines. Each big experiment has to be clearly identified and then steps to perform that experiment should be shown as a list i.e.
-Experiment 1:
-1) …
-2) …
-…
-Data:
-Time in between heartbeats measurement is not presented
-Google maps method doesn’t have 3 measurements or results are not presented as a table or are not calculated correctly
-Graphs of circumference vs diameter for Google maps is not presented or is not formatted properly
-Method used to identify pi value is wrong. To find pi plot the graph of circumference vs diameter. Add the trend line that crosses zero. Slope of the trend line is the pi value
-Table with linear measurements is not present
-Conclusion:
-Ways to improve experiment setup were not suggested.
-Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+|   | Lab 1| Lab 2| Tutorial 1| Tutorial 2| Lab 3| Tutorial ?| Lab 4| Tutorial 3| Lab 5| Tutorial 4| Lab 6| Tutorial 5| Lab 7| Total|
+|:--|-----:|-----:|----------:|----------:|-----:|----------:|-----:|----------:|-----:|----------:|-----:|----------:|-----:|-----:|
+|20 |     1|     1|          1|          1|     1|          1|     1|          1|     1|          1|     1|          1|     1|     1|
 
 
 
 
-Lab 2:
-Score:
-
-Introduction = 1/1
-Procedure = 1/2
-Data = 4.5/5
-Questions = 0/0
-Conclusion = 1/2
-
-Structure Loss = -2
-On Time = 0.5
-
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 2.75/10
-
-Comments:
-
-Procedure:
-All experiments that were conducted during the lab need to be described in the procedure
-Data:
-Resultant direction and speed are calculated correctly
-Resultant can be found using aircraft speed (V) and wind speed (w)
-R = (V^2 + w^2)^(1/2) = (210^2+65^2)^(1/2) = 219.8 km/h
-Tetta = arctan(V/w) = 1.27 rad = 72.8 degrees
-Conclusion:
-Ways to improve experiment setup were not suggested.
-Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+Comments lab 1
 
 
++------------+-------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Section   |                      Requirement                      |                           Comment                            | Points lost |
++============+=======================================================+==============================================================+=============+
+| Procedure  |                Procedure has structure                |  Procedure has to be structured using lab guidelines. Each   |      1      |
+|            |                                                       |  big experiment has to be clearly identified and then steps  |             |
+|            |                                                       |  to perform that experiment should be shown as a list i.e.   |             |
+|            |                                                       |                        Experiment 1:                         |             |
+|            |                                                       |                             1) …                             |             |
+|            |                                                       |                             2) …                             |             |
+|            |                                                       |                              …                               |             |
++------------+-------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |          Time in between heartbeats measured          |   Time in between heartbeats measurement is not presented    |     0.5     |
++------------+-------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |    Google maps method has table of 3 measurements     |  Google maps method doesn’t have 3 measurements or results   |      1      |
+|            |                                                       | are not presented as a table or are not calculated correctly |             |
++------------+-------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |    Graphs of Google maps measurements is presented    |  Graphs of circumference vs diameter for Google maps is not  |     0.5     |
+|            |                                                       |            presented or is not formatted properly            |             |
++------------+-------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    | Trend line method is used in all three experiments to |  Method used to identify pi value is wrong. To find pi plot  |     1.5     |
+|            |                      identify pi                      |  the graph of circumference vs diameter. Add the trend line  |             |
+|            |                                                       |  that crosses zero. Slope of the trend line is the pi value  |             |
++------------+-------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |       Table with linear measurements is present       |        Table with linear measurements is not present         |     0.5     |
++------------+-------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Conclusion |   Ways to improve experiment setup were suggested.    |     Ways to improve experiment setup were not suggested.     |      1      |
+|            |                                                       | Suggest specific ways how to improve experiment (less vague  |             |
+|            |                                                       | than doing more repetitions or using more precise equipment) |             |
++------------+-------------------------------------------------------+--------------------------------------------------------------+-------------+
 
 
-Lab 3:
-Score:
-
-Introduction = 1/1
-Procedure = 2/2
-Data = 5/5
-Questions = 0/0
-Conclusion = 2/2
-
-Structure Loss = 0
-On Time = 1
-
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 10/10
-
-Comments:
-
-Introduction:
-NA
+Comments lab 2
 
 
++------------+--------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Section   |                      Requirement                       |                           Comment                            | Points lost |
++============+========================================================+==============================================================+=============+
+| Procedure  |            Procedure covers all experiments            |  All experiments that were conducted during the lab need to  |      1      |
+|            |                                                        |                be described in the procedure                 |             |
++------------+--------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    | Resultant direction and speed are calculated correctly |    Resultant direction and speed are calculated correctly    |     0.5     |
+|            |                                                        |   Resultant can be found using aircraft speed (V) and wind   |             |
+|            |                                                        |                          speed (w)                           |             |
+|            |                                                        |   R = (V^2 + w^2)^(1/2) = (210^2+65^2)^(1/2) = 219.8 km/h    |             |
+|            |                                                        |        Tetta = arctan(V/w) = 1.27 rad = 72.8 degrees         |             |
++------------+--------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Conclusion |    Ways to improve experiment setup were suggested.    |     Ways to improve experiment setup were not suggested.     |      1      |
+|            |                                                        | Suggest specific ways how to improve experiment (less vague  |             |
+|            |                                                        | than doing more repetitions or using more precise equipment) |             |
++------------+--------------------------------------------------------+--------------------------------------------------------------+-------------+
 
 
-Lab 4:
-Score:
-
-Introduction = 1/1
-Procedure = 2/2
-Data = 5/5
-Questions = 0/0
-Conclusion = 2/2
-
-Structure Loss = NaN
-On Time = NaN
-
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = NaN/10
-
-Comments:
+Comments lab 3
 
 
++-------------+-----------------+-------------+-----------------+
+| **Section** | **Requirement** | **Comment** | **Points lost** |
++-------------+-----------------+-------------+-----------------+
 
 
+Comments lab 4
+
+
++-------------+-----------------+-------------+-----------------+
+| **Section** | **Requirement** | **Comment** | **Points lost** |
++-------------+-----------------+-------------+-----------------+
+
+
+Comments lab 5
+
+
++-------------+-----------------+-------------+-----------------+
+| **Section** | **Requirement** | **Comment** | **Points lost** |
++-------------+-----------------+-------------+-----------------+
+
+
+Comments lab 6
+
+
++-------------+-----------------+-------------+-----------------+
+| **Section** | **Requirement** | **Comment** | **Points lost** |
++-------------+-----------------+-------------+-----------------+
+
+
+Comments lab 7
+
+
++------------+--------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Section   |                   Requirement                    |                           Comment                            | Points lost |
++============+==================================================+==============================================================+=============+
+| Procedure  |             Procedure has structure              |  Procedure has to be structured using lab guidelines. Each   |      1      |
+|            |                                                  |  big experiment has to be clearly identified and then steps  |             |
+|            |                                                  |  to perform that experiment should be shown as a list i.e.   |             |
+|            |                                                  |                        Experiment 1:                         |             |
+|            |                                                  |                             1) …                             |             |
+|            |                                                  |                             2) …                             |             |
+|            |                                                  |                              …                               |             |
++------------+--------------------------------------------------+--------------------------------------------------------------+-------------+
+| Conclusion | Ways to improve experiment setup were suggested. |     Ways to improve experiment setup were not suggested.     |      1      |
+|            |                                                  | Suggest specific ways how to improve experiment (less vague  |             |
+|            |                                                  | than doing more repetitions or using more precise equipment) |             |
++------------+--------------------------------------------------+--------------------------------------------------------------+-------------+
 
