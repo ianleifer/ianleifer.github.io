@@ -1,136 +1,240 @@
-Lab 1:
-Score:
+Lab grade summary
 
-Introduction = 1/1
-Procedure = 2/2
-Data = 5/5
-Questions = 0/0
-Conclusion = 2/2
+|              | Lab 1 | Lab 2 | Lab 3 | Lab 4 | Lab 5 | Lab 6 | Total |
+|:-------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|Introduction  |   1   |  1.0  |   1   |   1   |  0.0  |  0.0  |  0.7  |
+|Procedure     |   2   |  1.0  |   2   |   0   |  0.0  |  0.0  |  0.8  |
+|Data          |   5   |  0.5  |   5   |   0   |  0.5  |  2.3  |  2.2  |
+|Questions     |   0   |  0.0  |   0   |   0   |  0.0  |  0.0  |  0.0  |
+|Conclusion    |   2   |  0.0  |   2   |   0   |  0.0  |  0.0  |  0.7  |
+|StructureLoss |  NA   | -2.0  |   0   |  -2   |  0.0  |  0.0  |  NA   |
+|OnTime        |  NA   |  0.5  |   1   |   1   |  1.0  |  1.0  |  NA   |
+|FinalScore    |  NA   |  0.2  |  10   |   0   |  0.5  |  2.3  |  NA   |
 
-Structure Loss = NaN
-On Time = NaN
+Final score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time
 
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = NaN/10
+Attendance
 
-Comments:
-
-
-
-
-
-Lab 2:
-Score:
-
-Introduction = 1/1
-Procedure = 1/2
-Data = 0.5/5
-Questions = 0/0
-Conclusion = 0/2
-
-Structure Loss = -2
-On Time = 0.5
-
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 0.25/10
-
-Comments:
-
-Procedure:
-Procedure has to be structured using lab guidelines. Each big experiment has to be clearly identified and then steps to perform that experiment should be shown as a list i.e.
-Experiment 1:
-1) …
-2) …
-…
-Data:
-Resultant force is not calculated correctly
-You needed to take
-Rx = V1x+V2x and Ry = V1y + V2y
-And then calculate
-R = (Rx^2+Ry^2)^(1/2)
-tetta = arctan(Ry/Rx)
-Equilibrant force is not calculated correctly
-You needed to take resultant force R, tettaR and put
-E = R
-tettaE = tettaR – 180
-Resultant direction and speed are calculated correctly
-Resultant can be found using aircraft speed (V) and wind speed (w)
-R = (V^2 + w^2)^(1/2) = (210^2+65^2)^(1/2) = 219.8 km/h
-Tetta = arctan(V/w) = 1.27 rad = 72.8 degrees
-Direction to point the plane to stay on course is not calculated correctly
-In order to stay on the northbound course, pilot needs to have a velocity directed NW in such manner, that X component of her velocity is equal to the X component of the wind to cancel each other. Therefore, the angle can be found using equation
-Vx = V cos(tetta) = -w
-Or
-tetta = arccos(-w/V) = 1.88 rad = 108 degrees
-Or, in case of the confusion, 18 degrees from North
-Conclusion:
-Main result is not presented or reasons for it being right or wrong are not discussed
-Main result needs to be presented similar to:
-We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2, our result has an error of 3.1%.
-Ways to improve experiment setup were not suggested.
-Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+|   | Lab 1| Lab 2| Tutorial 1| Tutorial 2| Lab 3| Tutorial ?| Lab 4| Tutorial 3| Lab 5| Tutorial 4| Lab 6| Tutorial 5| Lab 7| Total|
+|:--|-----:|-----:|----------:|----------:|-----:|----------:|-----:|----------:|-----:|----------:|-----:|----------:|-----:|-----:|
+|25 |     1|     1|          1|          1|     1|          1|     1|          1|     1|          1|     1|          1|     1|     1|
 
 
 
 
-Lab 3:
-Score:
-
-Introduction = 1/1
-Procedure = 2/2
-Data = 5/5
-Questions = 0/0
-Conclusion = 2/2
-
-Structure Loss = 0
-On Time = 1
-
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 10/10
-
-Comments:
-
-Introduction:
-NA
+Comments lab 1
 
 
++-------------+-----------------+-------------+-----------------+
+| **Section** | **Requirement** | **Comment** | **Points lost** |
++-------------+-----------------+-------------+-----------------+
 
 
-Lab 4:
-Score:
-
-Introduction = 1/1
-Procedure = 0/2
-Data = 0/5
-Questions = 0/0
-Conclusion = 0/2
-
-Structure Loss = -2
-On Time = 1
-
-Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 0/10
-
-Comments:
-
-Procedure:
-Procedure has to be structured using lab guidelines. Each big experiment has to be clearly identified and then steps to perform that experiment should be shown as a list i.e.
-Experiment 1:
-1) …
-2) …
-…
-All experiments that were conducted during the lab need to be described in the procedure
-Data:
-Measurements from the part 1 are not present
-Summary table with the data for the part 2a is not present or doesn’t have all the measurements
-Plot Fc vs m for the part 2a is not present
-Plot m vs V for the part 2a is not present
-Summary table with the data for the part 2b is not present or doesn’t have all the measurements
-Plot Fc vs r for the part 2b is not present
-Plot r vs w for the part 2b is present
-Conclusion:
-Main result is not presented or reasons for it being right or wrong are not discussed
-Main result needs to be presented similar to:
-We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2, our result has an error of 3.1%.
-Ways to improve experiment setup were not suggested.
-Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+Comments lab 2
 
 
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Section   |                        Requirement                        |                           Comment                            | Points lost |
++============+===========================================================+==============================================================+=============+
+| Procedure  |                  Procedure has structure                  |  Procedure has to be structured using lab guidelines. Each   |      1      |
+|            |                                                           |  big experiment has to be clearly identified and then steps  |             |
+|            |                                                           |  to perform that experiment should be shown as a list i.e.   |             |
+|            |                                                           |                        Experiment 1:                         |             |
+|            |                                                           |                             1) …                             |             |
+|            |                                                           |                             2) …                             |             |
+|            |                                                           |                              …                               |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |          Resultant force is calculated correctly          |         Resultant force is not calculated correctly          |     1.5     |
+|            |                                                           |                      You needed to take                      |             |
+|            |                                                           |               Rx = V1x+V2x and Ry = V1y + V2y                |             |
+|            |                                                           |                      And then calculate                      |             |
+|            |                                                           |                    R = (Rx^2+Ry^2)^(1/2)                     |             |
+|            |                                                           |                    tetta = arctan(Ry/Rx)                     |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |         Equilibrant force is calculated correctly         |        Equilibrant force is not calculated correctly         |     0.5     |
+|            |                                                           |     You needed to take resultant force R, tettaR and put     |             |
+|            |                                                           |                            E = R                             |             |
+|            |                                                           |                    tettaE = tettaR – 180                     |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |  Resultant direction and speed are calculated correctly   |    Resultant direction and speed are calculated correctly    |     0.5     |
+|            |                                                           |   Resultant can be found using aircraft speed (V) and wind   |             |
+|            |                                                           |                          speed (w)                           |             |
+|            |                                                           |   R = (V^2 + w^2)^(1/2) = (210^2+65^2)^(1/2) = 219.8 km/h    |             |
+|            |                                                           |        Tetta = arctan(V/w) = 1.27 rad = 72.8 degrees         |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |   Direction to point the plane to stay on course is not   |    Direction to point the plane to stay on course is not     |      2      |
+|            |                   calculated correctly                    |                     calculated correctly                     |             |
+|            |                                                           |  In order to stay on the northbound course, pilot needs to   |             |
+|            |                                                           | have a velocity directed NW in such manner, that X component |             |
+|            |                                                           |  of her velocity is equal to the X component of the wind to  |             |
+|            |                                                           |  cancel each other. Therefore, the angle can be found using  |             |
+|            |                                                           |                           equation                           |             |
+|            |                                                           |                    Vx = V cos(tetta) = -w                    |             |
+|            |                                                           |                              Or                              |             |
+|            |                                                           |        tetta = arccos(-w/V) = 1.88 rad = 108 degrees         |             |
+|            |                                                           |     Or, in case of the confusion, 18 degrees from North      |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Conclusion | Main result is identified. Clear reasons are given for it |  Main result is not presented or reasons for it being right  |      1      |
+|            |                   being right or wrong.                   |                  or wrong are not discussed                  |             |
+|            |                                                           |        Main result needs to be presented similar to:         |             |
+|            |                                                           | We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2,  |             |
+|            |                                                           |               our result has an error of 3.1%.               |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Conclusion |     Ways to improve experiment setup were suggested.      |     Ways to improve experiment setup were not suggested.     |      1      |
+|            |                                                           | Suggest specific ways how to improve experiment (less vague  |             |
+|            |                                                           | than doing more repetitions or using more precise equipment) |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
 
+
+Comments lab 3
+
+
++-------------+-----------------+-------------+-----------------+
+| **Section** | **Requirement** | **Comment** | **Points lost** |
++-------------+-----------------+-------------+-----------------+
+
+
+Comments lab 4
+
+
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Section   |                        Requirement                        |                           Comment                            | Points lost |
++============+===========================================================+==============================================================+=============+
+| Procedure  |                  Procedure has structure                  |  Procedure has to be structured using lab guidelines. Each   |      1      |
+|            |                                                           |  big experiment has to be clearly identified and then steps  |             |
+|            |                                                           |  to perform that experiment should be shown as a list i.e.   |             |
+|            |                                                           |                        Experiment 1:                         |             |
+|            |                                                           |                             1) …                             |             |
+|            |                                                           |                             2) …                             |             |
+|            |                                                           |                              …                               |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Procedure  |             Procedure covers all experiments              |  All experiments that were conducted during the lab need to  |      1      |
+|            |                                                           |                be described in the procedure                 |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |         Measurements from the part 1 are present          |         Measurements from the part 1 are not present         |      1      |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |  Summary table with the data for the part 2a is present   |  Summary table with the data for the part 2a is not present  |      1      |
+|            |                                                           |             or doesn’t have all the measurements             |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |          Plot Fc vs m for the part 2a is present          |         Plot Fc vs m for the part 2a is not present          |    0.25     |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |          Plot m vs V for the part 2a is present           |          Plot m vs V for the part 2a is not present          |    0.75     |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |  Summary table with the data for the part 2b is present   |  Summary table with the data for the part 2b is not present  |      1      |
+|            |                                                           |             or doesn’t have all the measurements             |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |          Plot Fc vs r for the part 2b is present          |         Plot Fc vs r for the part 2b is not present          |    0.25     |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|    Data    |          Plot r vs w for the part 2b is present           |          Plot r vs w for the part 2b is not present          |    0.75     |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Conclusion | Main result is identified. Clear reasons are given for it |  Main result is not presented or reasons for it being right  |      1      |
+|            |                   being right or wrong.                   |                  or wrong are not discussed                  |             |
+|            |                                                           |        Main result needs to be presented similar to:         |             |
+|            |                                                           | We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2,  |             |
+|            |                                                           |               our result has an error of 3.1%.               |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+| Conclusion |     Ways to improve experiment setup were suggested.      |     Ways to improve experiment setup were not suggested.     |      1      |
+|            |                                                           | Suggest specific ways how to improve experiment (less vague  |             |
+|            |                                                           | than doing more repetitions or using more precise equipment) |             |
++------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+
+
+Comments lab 5
+
+
++--------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|   Section    |                        Requirement                        |                           Comment                            | Points lost |
++==============+===========================================================+==============================================================+=============+
+| Introduction |                   Introduction present                    |    Introduction has to be included as a first part of the    |      1      |
+|              |                                                           |                            report                            |             |
++--------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Procedure   |                  Procedure has structure                  |  Procedure has to be structured using lab guidelines. Each   |      1      |
+|              |                                                           |  big experiment has to be clearly identified and then steps  |             |
+|              |                                                           |  to perform that experiment should be shown as a list i.e.   |             |
+|              |                                                           |                        Experiment 1:                         |             |
+|              |                                                           |                             1) …                             |             |
+|              |                                                           |                             2) …                             |             |
+|              |                                                           |                              …                               |             |
++--------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Procedure   |             Procedure covers all experiments              |  All experiments that were conducted during the lab need to  |      1      |
+|              |                                                           |                be described in the procedure                 |             |
++--------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     | Fnet * delta t vs Vw data is present and Fnet and mw are  | Fnet * delta t vs Vw data is not present or Fnet and mw are  |     0.5     |
+|              |                       kept constant                       |                      not kept constant                       |             |
++--------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     |           Fnet * delta t vs Vw plot is present            | Fnet * delta t vs Vw plot is not present or is based on the  |      1      |
+|              |                                                           |                          wrong data                          |             |
++--------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     |  Fnet vs Vw data is present and delta t and mw are kept   |   Fnet vs Vw data is not present or delta t and mw are not   |     0.5     |
+|              |                         constant                          |                        kept constant                         |             |
++--------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     |                Fnet vs Vw plot is present                 | Fnet vs Vw plot is not present or is based on the wrong data |      1      |
++--------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     |  mw vs Vw data is present and delta t and Fnet are kept   |   mw vs Vw data is not present or delta t and Fnet are not   |     0.5     |
+|              |                         constant                          |                        kept constant                         |             |
++--------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     |                 mw vs Vw plot is present                  |  mw vs Vw plot is not present or is based on the wrong data  |      1      |
++--------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Conclusion  | Main result is identified. Clear reasons are given for it |  Main result is not presented or reasons for it being right  |      1      |
+|              |                   being right or wrong.                   |                  or wrong are not discussed                  |             |
+|              |                                                           |        Main result needs to be presented similar to:         |             |
+|              |                                                           | We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2,  |             |
+|              |                                                           |               our result has an error of 3.1%.               |             |
++--------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Conclusion  |     Ways to improve experiment setup were suggested.      |     Ways to improve experiment setup were not suggested.     |      1      |
+|              |                                                           | Suggest specific ways how to improve experiment (less vague  |             |
+|              |                                                           | than doing more repetitions or using more precise equipment) |             |
++--------------+-----------------------------------------------------------+--------------------------------------------------------------+-------------+
+
+
+Comments lab 6
+
+
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|   Section    |                         Requirement                          |                           Comment                            | Points lost |
++==============+==============================================================+==============================================================+=============+
+| Introduction |                     Introduction present                     |    Introduction has to be included as a first part of the    |      1      |
+|              |                                                              |                            report                            |             |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Procedure   |                   Procedure has structure                    |  Procedure has to be structured using lab guidelines. Each   |      1      |
+|              |                                                              |  big experiment has to be clearly identified and then steps  |             |
+|              |                                                              |  to perform that experiment should be shown as a list i.e.   |             |
+|              |                                                              |                        Experiment 1:                         |             |
+|              |                                                              |                             1) …                             |             |
+|              |                                                              |                             2) …                             |             |
+|              |                                                              |                              …                               |             |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Procedure   |               Procedure covers all experiments               |  All experiments that were conducted during the lab need to  |      1      |
+|              |                                                              |                be described in the procedure                 |             |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     |                 1a. Periodic time identified                 |               1a. Periodic time not identified               |     0.2     |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     | 1e. Three masses determined correctly to be ~200g, 150g, 80g | 1e. Three masses not determined correctly (~200g, 150g, 80g) |     0.4     |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     | 2i. g of planet X is determined correctly to be ~13.3 m/s^2  | 2i. g of planet X is not determined correctly (~13.3 m/s^2)  |     0.4     |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     |          3d. Calculate spring constant (k = 4 N/m)           |           3d. Spring constant is wrong (k = 4 N/m)           |      0      |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     |      3e-g. Determine energy of the spring at the top of      |    3e-g. Energy of the spring at the top of oscillation,     |     0.3     |
+|              |      oscillation, equilibrium position and lowest point      |     equilibrium position and lowest point are different      |             |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     |   3i. Show that work done on spring is equal to change in    |   3i. Work done on spring is not equal to change in spring   |     0.5     |
+|              |                   spring potential energy                    |                       potential energy                       |             |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     |                     3. Fill in the table                     |                   3. Table is not present                    |     0.5     |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     |                        3. Plot K vs d                        |                3. Plot K vs d is not present                 |     0.2     |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|     Data     |                       3. Plot T^2 vs m                       |               3. Plot T^2 vs m is not present                |     0.2     |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Conclusion  |  Main result is identified. Clear reasons are given for it   |  Main result is not presented or reasons for it being right  |      1      |
+|              |                    being right or wrong.                     |                  or wrong are not discussed                  |             |
+|              |                                                              |        Main result needs to be presented similar to:         |             |
+|              |                                                              | We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2,  |             |
+|              |                                                              |               our result has an error of 3.1%.               |             |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
+|  Conclusion  |       Ways to improve experiment setup were suggested.       |     Ways to improve experiment setup were not suggested.     |      1      |
+|              |                                                              | Suggest specific ways how to improve experiment (less vague  |             |
+|              |                                                              | than doing more repetitions or using more precise equipment) |             |
++--------------+--------------------------------------------------------------+--------------------------------------------------------------+-------------+
 
