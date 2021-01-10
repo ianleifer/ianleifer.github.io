@@ -1,0 +1,94 @@
+Lab 1:
+Score:
+
+Introduction = 1/1
+Procedure = 1/2
+Data = 4.5/5
+Questions = 0/0
+Conclusion = 0/2
+
+Structure Loss = 0
+On Time = 1
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 6.5/10
+
+Comments:
+
+Procedure:
+Procedure has to be structured using lab guidelines. Each big experiment has to be clearly identified and then steps to perform that experiment should be shown as a list i.e.
+Experiment 1:
+1) …
+2) …
+…
+Data:
+Time in between heartbeats measurement is not presented
+Conclusion:
+Main result is not presented or reasons for it being right or wrong are not discussed
+Main result needs to be presented similar to:
+We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2, our result has an error of 3.1%.
+Ways to improve experiment setup were not suggested.
+Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+
+
+
+
+Lab 2:
+Score:
+
+Introduction = 1/1
+Procedure = 2/2
+Data = 5/5
+Questions = 0/0
+Conclusion = 2/2
+
+Structure Loss = NaN
+On Time = NaN
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = NaN/10
+
+Comments:
+
+
+
+
+
+Lab 3:
+Score:
+
+Introduction = 1/1
+Procedure = 2/2
+Data = 5/5
+Questions = 0/0
+Conclusion = 2/2
+
+Structure Loss = NaN
+On Time = NaN
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = NaN/10
+
+Comments:
+
+
+
+
+
+Lab 4:
+Score:
+
+Introduction = 1/1
+Procedure = 2/2
+Data = 5/5
+Questions = 0/0
+Conclusion = 2/2
+
+Structure Loss = NaN
+On Time = NaN
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = NaN/10
+
+Comments:
+
+
+
+
+

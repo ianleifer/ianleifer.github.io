@@ -1,0 +1,136 @@
+Lab 1:
+Score:
+
+Introduction = 1/1
+Procedure = 2/2
+Data = 5/5
+Questions = 0/0
+Conclusion = 2/2
+
+Structure Loss = NaN
+On Time = NaN
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = NaN/10
+
+Comments:
+
+
+
+
+
+Lab 2:
+Score:
+
+Introduction = 1/1
+Procedure = 1/2
+Data = 0.5/5
+Questions = 0/0
+Conclusion = 0/2
+
+Structure Loss = -2
+On Time = 0.5
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 0.25/10
+
+Comments:
+
+Procedure:
+Procedure has to be structured using lab guidelines. Each big experiment has to be clearly identified and then steps to perform that experiment should be shown as a list i.e.
+Experiment 1:
+1) …
+2) …
+…
+Data:
+Resultant force is not calculated correctly
+You needed to take
+Rx = V1x+V2x and Ry = V1y + V2y
+And then calculate
+R = (Rx^2+Ry^2)^(1/2)
+tetta = arctan(Ry/Rx)
+Equilibrant force is not calculated correctly
+You needed to take resultant force R, tettaR and put
+E = R
+tettaE = tettaR – 180
+Resultant direction and speed are calculated correctly
+Resultant can be found using aircraft speed (V) and wind speed (w)
+R = (V^2 + w^2)^(1/2) = (210^2+65^2)^(1/2) = 219.8 km/h
+Tetta = arctan(V/w) = 1.27 rad = 72.8 degrees
+Direction to point the plane to stay on course is not calculated correctly
+In order to stay on the northbound course, pilot needs to have a velocity directed NW in such manner, that X component of her velocity is equal to the X component of the wind to cancel each other. Therefore, the angle can be found using equation
+Vx = V cos(tetta) = -w
+Or
+tetta = arccos(-w/V) = 1.88 rad = 108 degrees
+Or, in case of the confusion, 18 degrees from North
+Conclusion:
+Main result is not presented or reasons for it being right or wrong are not discussed
+Main result needs to be presented similar to:
+We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2, our result has an error of 3.1%.
+Ways to improve experiment setup were not suggested.
+Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+
+
+
+
+Lab 3:
+Score:
+
+Introduction = 1/1
+Procedure = 2/2
+Data = 5/5
+Questions = 0/0
+Conclusion = 2/2
+
+Structure Loss = 0
+On Time = 1
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 10/10
+
+Comments:
+
+Introduction:
+NA
+
+
+
+
+Lab 4:
+Score:
+
+Introduction = 1/1
+Procedure = 0/2
+Data = 0/5
+Questions = 0/0
+Conclusion = 0/2
+
+Structure Loss = -2
+On Time = 1
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 0/10
+
+Comments:
+
+Procedure:
+Procedure has to be structured using lab guidelines. Each big experiment has to be clearly identified and then steps to perform that experiment should be shown as a list i.e.
+Experiment 1:
+1) …
+2) …
+…
+All experiments that were conducted during the lab need to be described in the procedure
+Data:
+Measurements from the part 1 are not present
+Summary table with the data for the part 2a is not present or doesn’t have all the measurements
+Plot Fc vs m for the part 2a is not present
+Plot m vs V for the part 2a is not present
+Summary table with the data for the part 2b is not present or doesn’t have all the measurements
+Plot Fc vs r for the part 2b is not present
+Plot r vs w for the part 2b is present
+Conclusion:
+Main result is not presented or reasons for it being right or wrong are not discussed
+Main result needs to be presented similar to:
+We measured g = 9.5 m/s^2, known table value is 9.81 m/s^2, our result has an error of 3.1%.
+Ways to improve experiment setup were not suggested.
+Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+
+
+
+

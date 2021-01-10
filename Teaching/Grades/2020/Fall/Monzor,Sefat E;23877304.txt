@@ -1,0 +1,107 @@
+Lab 1:
+Score:
+
+Introduction = 1/1
+Procedure = 1/2
+Data = 1/5
+Questions = 0/0
+Conclusion = 1/2
+
+Structure Loss = 0
+On Time = 1
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 4/10
+
+Comments:
+
+Procedure:
+Procedure has to be structured using lab guidelines. Each big experiment has to be clearly identified and then steps to perform that experiment should be shown as a list i.e.
+Experiment 1:
+1) …
+2) …
+…
+Data:
+Time in between heartbeats measurement is not presented
+Google maps method doesn’t have 3 measurements or results are not presented as a table or are not calculated correctly
+Graphs of circumference vs diameter for Google maps is not presented or is not formatted properly
+Method used to identify pi value is wrong. To find pi plot the graph of circumference vs diameter. Add the trend line that crosses zero. Slope of the trend line is the pi value
+Table with linear measurements is not present
+Conclusion:
+Ways to improve experiment setup were not suggested.
+Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+
+
+
+
+Lab 2:
+Score:
+
+Introduction = 1/1
+Procedure = 1/2
+Data = 4.5/5
+Questions = 0/0
+Conclusion = 1/2
+
+Structure Loss = -2
+On Time = 0.5
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 2.75/10
+
+Comments:
+
+Procedure:
+All experiments that were conducted during the lab need to be described in the procedure
+Data:
+Resultant direction and speed are calculated correctly
+Resultant can be found using aircraft speed (V) and wind speed (w)
+R = (V^2 + w^2)^(1/2) = (210^2+65^2)^(1/2) = 219.8 km/h
+Tetta = arctan(V/w) = 1.27 rad = 72.8 degrees
+Conclusion:
+Ways to improve experiment setup were not suggested.
+Suggest specific ways how to improve experiment (less vague than doing more repetitions or using more precise equipment)
+
+
+
+
+Lab 3:
+Score:
+
+Introduction = 1/1
+Procedure = 2/2
+Data = 5/5
+Questions = 0/0
+Conclusion = 2/2
+
+Structure Loss = 0
+On Time = 1
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = 10/10
+
+Comments:
+
+Introduction:
+NA
+
+
+
+
+Lab 4:
+Score:
+
+Introduction = 1/1
+Procedure = 2/2
+Data = 5/5
+Questions = 0/0
+Conclusion = 2/2
+
+Structure Loss = NaN
+On Time = NaN
+
+Total score = (Introduction + Procedure + Data + Questions + Conclusion + Structure Loss) * On Time = NaN/10
+
+Comments:
+
+
+
+
+
