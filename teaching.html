@@ -10,7 +10,7 @@
   <meta name="description" content="">
   
   
-  <title>Home</title>
+  <title>Teaching</title>
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
@@ -26,7 +26,7 @@
 </head>
 <body>
   
-  <section class="menu menu1 cid-skwcwbAW9K" once="menu" id="menu1-m">
+  <section class="menu menu1 cid-slID7HUTXT" once="menu" id="menu1-10">
     
 
     <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
@@ -59,29 +59,46 @@
     </nav>
 </section>
 
-<section class="header3 cid-skwd0OKDlC mbr-fullscreen" id="header3-n">
-
+<section class="content8 cid-slJMvF5DJu" id="content8-17">
     
-
-    <div class="mbr-overlay" style="opacity: 0.2; background-color: rgb(255, 255, 255);"></div>
-
-    <div class="align-center container">
+    <div class="container">
         <div class="row justify-content-center">
-            <div class="col-12 col-lg-8">
-                <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>Ian Leifer</strong></h1>
-                <h2 class="mbr-section-subtitle mbr-fonts-style mb-3 display-2">PhD student in Complex Networks, GC, CUNY</h2>
-                <p class="mbr-text mbr-fonts-style display-7">Passionate about using data science to gain insights about biological systems. Proven track record participating in cutting edge research projects along with top researchers in the field to produce and publish scientific results. History of developing and applying new analytical methods to a wide variety of fields including physics, neural biology, genetics and finance. Currently in the last year of my doctoral program, where I apply symmetries and machine learning to study the functioning of biological networks (genetic, metabolic, protein contact, neural etc.). Interested to learn more about applications of data science and genetics to optimize athletic performance.<br>Google scholar:<br>https://scholar.google.com/citations?user=K61EQ_sAAAAJ&amp;hl=en&nbsp;</p>
-                
+            <div class="counter-container col-md-12 col-lg-10">
+                <h4 class="mbr-section-title mbr-fonts-style mb-4 display-5">CCNY - Physics 207 labs</h4>
+                <div class="mbr-text mbr-fonts-style display-7">
+                    <div>Lab guidelines</div><div><br></div><ul>
+                        <li><a href="https://github.com/ianleifer/ianleifer.github.io/blob/master/Teaching/Notes/Lab1.pdf" class="text-primary">Lab 1: Measurements</a></li><li>Lab 2</li><li>Lab 3</li><li>Lab 4</li><li>Lab 5</li><li>Lab 6</li><li>Lab 7</li><li>&nbsp;</li><li>Tutorial 1</li><li>Tutorial 2</li><li>Tutorial 3</li><li>Tutorial 4</li><li>Tutorial 5</li></ul><ul>
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
+
+<script type="text/javascript">
+	function getSummary() {
+		var ID = document.getElementById("CUNYFirstId").value;
+		var FirstName = document.getElementById("FirstName").value;
+		var LastName = document.getElementById("LastName").value;
+		var fileName = "Teaching/Grades/2020/Fall/" + LastName + "," + FirstName + ";" + ID + ".txt";
+		document.myform.action = fileName;
+		return true;
+	}
+</script>
+
+<form name="myform" onsubmit="return OnSubmitForm();">
+	<center>
+	<label for="fname">First name:</label><br>
+	<input type="text" id="FirstName" value=""><br>
+	<label for="fname">Last name:</label><br>
+	<input type="text" id="LastName" value=""><br>
+	<label for="fname">CunyFirstId:</label><br>
+	<input type="text" id="CUNYFirstId" value=""><br>
+	<input type="submit" onclick="return getSummary();">
+</form>
+
 </section>
 
-<section class="footer3 cid-s48P1Icc8J" once="footers" id="footer3-i">
-
-    
-
-    
+<section class="footer3 cid-slID7HwAmF" once="footers" id="footer3-z">
 
     <div class="container">
         <div class="media-container-row align-center mbr-white">
