@@ -689,7 +689,9 @@ a {
   transition: color 0.6s;
 }
 .cid-skwd0OKDlC {
-  background-image: url("../../../assets/images/mbr-1920x1079.jpg");
+  padding-top: 9rem;
+  padding-bottom: 8rem;
+  background-image: url("../../../assets/images/mbr-1920x1280.jpg");
 }
 .cid-skwd0OKDlC .mbr-section-title {
   text-align: center;
